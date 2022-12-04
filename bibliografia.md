@@ -8,6 +8,7 @@
 - Anoop és mtsai 2022. Towards an Enhanced Understanding of Bias in Pre-trained Neural Language Models: A Survey with Special Emphasis on Affective Bias. In Mathew és mtsai (szerk.),  _Responsible Data Science. Select Proceedings of ICDSE 2021 (LNEE 940),_ 13-45. A könyv letölthető itt: http://libgen.is/book/index.php?md5=52B967E068576EBAACBF45C49FC005A2
   **Ez egy fontos cikk, egy csomó szakirodalmat áttekint a korábbi évekből, amely társadalmi előítéleteknek a gépi tanulással alkotott nyelvtechnológiai termékekben való tükröződésével és ennek kezelésével foglalkoztak, ezért képet alkothatunk belőle a kérdés jelenlegi állásáról.**
 - Hovy és Prabhumoye 2021. Five sources of bias in natural language processing. _Language and Linguistics Compass_ 15, e12432. https://doi.org/10.1111/lnc3.12432 **Ez is az előzőhöz hasonló áttekintő cikk.**
+- Kasirzadeh és Gabriel 2022. In conversation with AI: building better language models. DeepMind technical blog. https://www.deepmind.com/blog/in-conversation-with-ai-building-better-language-models
 - Kaneko és Bollegala 2022. Unmasking the Mask – Evaluating Social Biases in Masked Language Models. _Proceedings of the AAAI 2022,_ 11954-11962. https://doi.org/10.1609/aaai.v36i11.21453
 - Akyürek 2022. Challenges in Measuring Bias via Open-Ended Language Generation. _Proceedings of the 4th Workshop on Gender Bias in Natural Language Processing 2022,_ 76. https://aclanthology.org/2022.gebnlp-1.9/
 - Orgad és Belinkov 2022. Choose Your Lenses: Flaws in Gender Bias Evaluation. _Proceedings of the 4th Workshop on Gender Bias in Natural Language Processing 2022,_ 151-167. https://aclanthology.org/2022.gebnlp-1.17/
@@ -44,6 +45,7 @@
 - Khalid és mtsai 2022. Suum Cuique: Studying Bias in Taboo Detection with a Community Perspective. _Findings of the Association for Computational Linguistics: ACL 2022,_ 2883-2896. https://aclanthology.org/2022.findings-acl.227/
 - Meade és mtsai 2022. An Empirical Survey of the Effectiveness of Debiasing Techniques for Pre-trained Language Models. _Proceedings of ACL 60 (Volume 1: Long Papers),_ 1878–1898. https://aclanthology.org/2022.acl-long.132/
 - Hertzberg és mtsai 2022. Distributional properties of political dogwhistle representations in Swedish BERT. _Proceedings of the Sixth Workshop on Online Abuse and Harms (WOAH),_ 170-175. https://aclanthology.org/2022.woah-1.16/
+- Weidinger és mtsai 2022. Taxonomy of Risks posed by Language Models. Proceedings of FAccT '22, 214-229. https://dl.acm.org/doi/10.1145/3531146.3533088
 - Kumar és mtsai 2021. An Overview of Fairness in Data – Illuminating the Bias in Data Pipeline. _Proceedings of the First Workshop on Language Technology for Equality, Diversity and Inclusion,_ 34-45. https://aclanthology.org/2021.ltedi-1.5/
 
 ## Lazán kapcsolódó konferenciák
