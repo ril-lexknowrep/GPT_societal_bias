@@ -12,7 +12,7 @@
 - Akyürek 2022. Challenges in Measuring Bias via Open-Ended Language Generation. _Proceedings of the 4th Workshop on Gender Bias in Natural Language Processing 2022,_ 76. https://aclanthology.org/2022.gebnlp-1.9/
 - Orgad és Belinkov 2022. Choose Your Lenses: Flaws in Gender Bias Evaluation. _Proceedings of the 4th Workshop on Gender Bias in Natural Language Processing 2022,_ 151-167. https://aclanthology.org/2022.gebnlp-1.17/
 - Touileb és mtsai 2022. Occupational Biases in Norwegian and Multilingual Language Models. _Proceedings of the 4th Workshop on Gender Bias in Natural Language Processing 2022.,_ 200-211. https://aclanthology.org/2022.gebnlp-1.21/
-- Takeshita és mtsai 2022. Speciesist language and nonhuman animal bias in English Masked Language Models. Information Processing & Management 59, 103050. https://doi.org/10.1016/j.ipm.2022.103050
+- Takeshita és mtsai 2022. Speciesist language and nonhuman animal bias in English Masked Language Models. _Information Processing & Management_ 59, 103050. https://doi.org/10.1016/j.ipm.2022.103050
 - Das és Balke 2022. Quantifying Bias from Decoding Techniques in Natural Language Generation. _Proceedings of COLING 29,_ 1311–1323. https://aclanthology.org/2022.coling-1.112/
 - Venkit és mtsai 2022. A Study of Implicit Bias in Pretrained Language Models against People with Disabilities. _Proceedings of COLING 29,_ 1324–1332. https://aclanthology.org/2022.coling-1.113/
 - Nozza és mtsai 2022. Measuring Harmful Sentence Completion in Language Models for LGBTQIA+ Individuals. _Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion,_ 26-34. https://aclanthology.org/2022.ltedi-1.4/
