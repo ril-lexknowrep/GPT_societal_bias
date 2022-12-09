@@ -29,6 +29,8 @@
 - Liang és mtsai 2021. Towards Understanding and Mitigating Social Biases in Language Models. _arXiv._ https://arxiv.org/abs/2106.13219
 - Delobelle és mtsai 2021. Measuring Fairness with Biased Rulers: A Survey on Quantifying Biases in Pretrained Language Models. _arXiv._ https://arxiv.org/abs/2112.07447
 - Caliskan 2021. _Detecting and mitigating bias in natural language processing._ https://www.brookings.edu/research/detecting-and-mitigating-bias-in-natural-language-processing/
+- McGuffie és Newhouse 2020. The Radicalization Risks of GPT-3 and Advanced Neural Language Models. _arXiv._ https://arxiv.org/abs/2009.06807
+- Gehman és mtsai 2020. RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models. _arXiv._ https://arxiv.org/abs/2009.11462
 - Nangia és mtsai 2020. CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models. In _Proceedings of EMNLP 2020,_ 1953-1967. https://aclanthology.org/2020.emnlp-main.154/
 - Friedman és mtsai 2019. Relating Word Embedding Gender Biases to Gender Gaps: A Cross-Cultural Analysis. Proceedings of the First Workshop on Gender Bias in Natural Language Processing 18-24. https://aclanthology.org/W19-3803/
 - Kurita és mtsai 2019. Measuring Bias in Contextualized Word Representations. Proceedings of the First Workshop on Gender Bias in Natural Language Processing 166-172. https://aclanthology.org/W19-3823/
@@ -47,6 +49,7 @@
 - Hertzberg és mtsai 2022. Distributional properties of political dogwhistle representations in Swedish BERT. _Proceedings of the Sixth Workshop on Online Abuse and Harms (WOAH),_ 170-175. https://aclanthology.org/2022.woah-1.16/
 - Weidinger és mtsai 2022. Taxonomy of Risks posed by Language Models. Proceedings of FAccT '22, 214-229. https://dl.acm.org/doi/10.1145/3531146.3533088
 - Kumar és mtsai 2021. An Overview of Fairness in Data – Illuminating the Bias in Data Pipeline. _Proceedings of the First Workshop on Language Technology for Equality, Diversity and Inclusion,_ 34-45. https://aclanthology.org/2021.ltedi-1.5/
+- Hutson 2021. Robo-writers: the rise and risks of language-generating AI. _Nature_ 591, 22-25. https://doi.org/10.1038/d41586-021-00530-0 
 
 ## Lazán kapcsolódó konferenciák
 - Proceedings of the 4th Workshop on Gender Bias in Natural Language Processing. 2022. https://aclanthology.org/volumes/2022.gebnlp-1/
