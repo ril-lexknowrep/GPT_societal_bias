@@ -29,11 +29,14 @@
 - Liang és mtsai 2021. Towards Understanding and Mitigating Social Biases in Language Models. _arXiv._ https://arxiv.org/abs/2106.13219
 - Delobelle és mtsai 2021. Measuring Fairness with Biased Rulers: A Survey on Quantifying Biases in Pretrained Language Models. _arXiv._ https://arxiv.org/abs/2112.07447
 - Caliskan 2021. _Detecting and mitigating bias in natural language processing._ https://www.brookings.edu/research/detecting-and-mitigating-bias-in-natural-language-processing/
+- Bender és mtsai 2021. On the dangers of stochastic parrots: Can language models be too big. _Proceedings of FAccT '21,_ 610-623. https://dl.acm.org/doi/10.1145/3442188.3445922 **Ez egy sokat hivatkozott cikk.**
+- Dhamala és mtsai 2021. BOLD: Dataset and Metrics for Measuring Biases in Open-Ended Language Generation. _Proceedings of FAccT '21,_ 862-872. https://dl.acm.org/doi/10.1145/3442188.3445924 **Ez az egyik előítéletességmérő eszköz, amit Akyürek és mtsai 2022 használ.**
 - McGuffie és Newhouse 2020. The Radicalization Risks of GPT-3 and Advanced Neural Language Models. _arXiv._ https://arxiv.org/abs/2009.06807
 - Gehman és mtsai 2020. RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models. _arXiv._ https://arxiv.org/abs/2009.11462
 - Nangia és mtsai 2020. CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models. In _Proceedings of EMNLP 2020,_ 1953-1967. https://aclanthology.org/2020.emnlp-main.154/
-- Friedman és mtsai 2019. Relating Word Embedding Gender Biases to Gender Gaps: A Cross-Cultural Analysis. Proceedings of the First Workshop on Gender Bias in Natural Language Processing 18-24. https://aclanthology.org/W19-3803/
-- Kurita és mtsai 2019. Measuring Bias in Contextualized Word Representations. Proceedings of the First Workshop on Gender Bias in Natural Language Processing 166-172. https://aclanthology.org/W19-3823/
+- Friedman és mtsai 2019. Relating Word Embedding Gender Biases to Gender Gaps: A Cross-Cultural Analysis. _Proceedings of the First Workshop on Gender Bias in Natural Language Processing_ 18-24. https://aclanthology.org/W19-3803/
+- Kurita és mtsai 2019. Measuring Bias in Contextualized Word Representations. _Proceedings of the First Workshop on Gender Bias in Natural Language Processing_ 166-172. https://aclanthology.org/W19-3823/
+- Gonen és Goldberg 2019. Lipstick on a Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings But do not Remove Them. _Proceedings of the 2019 Workshop on Widening NLP_ 60-63. https://aclanthology.org/W19-3621/
 
 ## Lazán kapcsolódó cikkek
 - Zhao és mtsai 2022. From Polarity to Intensity: Mining Morality from Semantic Space. _Proceedings of COLING 29,_ 1250–1262. https://aclanthology.org/2022.coling-1.107/
@@ -47,9 +50,11 @@
 - Khalid és mtsai 2022. Suum Cuique: Studying Bias in Taboo Detection with a Community Perspective. _Findings of the Association for Computational Linguistics: ACL 2022,_ 2883-2896. https://aclanthology.org/2022.findings-acl.227/
 - Meade és mtsai 2022. An Empirical Survey of the Effectiveness of Debiasing Techniques for Pre-trained Language Models. _Proceedings of ACL 60 (Volume 1: Long Papers),_ 1878–1898. https://aclanthology.org/2022.acl-long.132/
 - Hertzberg és mtsai 2022. Distributional properties of political dogwhistle representations in Swedish BERT. _Proceedings of the Sixth Workshop on Online Abuse and Harms (WOAH),_ 170-175. https://aclanthology.org/2022.woah-1.16/
-- Weidinger és mtsai 2022. Taxonomy of Risks posed by Language Models. Proceedings of FAccT '22, 214-229. https://dl.acm.org/doi/10.1145/3531146.3533088
+- Weidinger és mtsai 2022. Taxonomy of Risks posed by Language Models. _Proceedings of FAccT '22,_ 214-229. https://dl.acm.org/doi/10.1145/3531146.3533088
 - Kumar és mtsai 2021. An Overview of Fairness in Data – Illuminating the Bias in Data Pipeline. _Proceedings of the First Workshop on Language Technology for Equality, Diversity and Inclusion,_ 34-45. https://aclanthology.org/2021.ltedi-1.5/
 - Hutson 2021. Robo-writers: the rise and risks of language-generating AI. _Nature_ 591, 22-25. https://doi.org/10.1038/d41586-021-00530-0 
+- Jacobs és Wallach 2021. Measurement and Fairness. _Proceedings of FAccT '21,_ 375-385. https://dl.acm.org/doi/10.1145/3442188.3445901 **Jól megírt cikk. Azt foglalja össze, hogy milyen problémák merülnek fel közvetlenül nem megfigyelhető, elméleti fogalmak mérésével kapcsolatban. Bevezeti többek között az essentially contested concept fogalmát. Hivatkozható.**
+- Yang és Roberts 2021. Censorship of Online Encyclopedias: Implications for NLP Models. _Proceedings of FAccT '21,_ 537-548. **Arról szól, hogy két különböző (történetesen egy államilag cenzúrázott és egy viszonylag szabad) korpuszon tanított klasszikus szóvektorok közötti különbségek mérhetően korrelálnak a pártállam ideológiai preferenciáival. Nem túl izgalmas, de annyiban releváns nekünk, hogy azt vizsgálja, hogy inkább pozitív vagy inkább negatív-e a viszonyulása a lexikális modelleknek olyan fogalmakhoz, mint a szabadság, a demokrácia vagy a megfigyelés és az ellenőrzés.**
 
 ## Lazán kapcsolódó konferenciák
 - Proceedings of the 4th Workshop on Gender Bias in Natural Language Processing. 2022. https://aclanthology.org/volumes/2022.gebnlp-1/
