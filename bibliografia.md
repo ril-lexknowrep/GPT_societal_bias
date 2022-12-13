@@ -31,6 +31,7 @@
 - Caliskan 2021. _Detecting and mitigating bias in natural language processing._ https://www.brookings.edu/research/detecting-and-mitigating-bias-in-natural-language-processing/
 - Bender és mtsai 2021. On the dangers of stochastic parrots: Can language models be too big. _Proceedings of FAccT '21,_ 610-623. https://dl.acm.org/doi/10.1145/3442188.3445922 **Ez egy sokat hivatkozott cikk.**
 - Dhamala és mtsai 2021. BOLD: Dataset and Metrics for Measuring Biases in Open-Ended Language Generation. _Proceedings of FAccT '21,_ 862-872. https://dl.acm.org/doi/10.1145/3442188.3445924 **Ez az egyik előítéletességmérő eszköz, amit Akyürek és mtsai 2022 használ.**
+- Nozza és mtsai 2021. HONEST: Measuring Hurtful Sentence Completion in Language Models. _Proceedings of NAACL 2021: Human Language Technologies,_ 2398–2406. https://aclanthology.org/2021.naacl-main.191/ **Ez a másik ilyen eszköz.**
 - McGuffie és Newhouse 2020. The Radicalization Risks of GPT-3 and Advanced Neural Language Models. _arXiv._ https://arxiv.org/abs/2009.06807
 - Gehman és mtsai 2020. RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models. _arXiv._ https://arxiv.org/abs/2009.11462
 - Nangia és mtsai 2020. CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models. In _Proceedings of EMNLP 2020,_ 1953-1967. https://aclanthology.org/2020.emnlp-main.154/
